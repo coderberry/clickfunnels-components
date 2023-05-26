@@ -1,0 +1,9 @@
+*.hbs
+.cache
+.github
+cspell.json
+dist
+docs/search.json
+node_modules
+package-lock.json
+tsconfig.json
